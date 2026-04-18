@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yfinance
+pandas
+pydantic
+textblob
+python-dotenv
+requests
+streamlit
+altair
